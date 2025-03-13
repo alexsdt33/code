@@ -1,6 +1,6 @@
 Add Later
 Good
-Bad
+Ba
 Ho
 Go
 Bitcoin 9.0.8
